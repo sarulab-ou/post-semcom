@@ -1,0 +1,68 @@
+[
+  {
+    "evidence_ttl_ms": 35.0,
+    "expired_evidence_abstention_probability": 0.0,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "mean_safe_world_evidence_traffic_kib": 9.801000000000062,
+    "p95_action_ready_latency_ms": 11.40112,
+    "radio_initial_age_ms": 15.0,
+    "timely_safe_world_coverage": 0.6273209487800978,
+    "visual_initial_age_ms": 20.0
+  },
+  {
+    "evidence_ttl_ms": 35.0,
+    "expired_evidence_abstention_probability": 0.0,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "mean_safe_world_evidence_traffic_kib": 2.6037343950750076,
+    "p95_action_ready_latency_ms": 11.8192,
+    "radio_initial_age_ms": 15.0,
+    "timely_safe_world_coverage": 0.6273209487800978,
+    "visual_initial_age_ms": 20.0
+  },
+  {
+    "evidence_ttl_ms": 35.0,
+    "expired_evidence_abstention_probability": 0.0,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "mean_safe_world_evidence_traffic_kib": 9.801000000000062,
+    "p95_action_ready_latency_ms": 11.40112,
+    "radio_initial_age_ms": 15.0,
+    "timely_safe_world_coverage": 0.6273209487800978,
+    "visual_initial_age_ms": 23.4
+  },
+  {
+    "evidence_ttl_ms": 35.0,
+    "expired_evidence_abstention_probability": 0.19596177520543667,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "mean_safe_world_evidence_traffic_kib": 2.6037343950750076,
+    "p95_action_ready_latency_ms": 11.08192,
+    "radio_initial_age_ms": 15.0,
+    "timely_safe_world_coverage": 0.5688707889953429,
+    "visual_initial_age_ms": 23.4
+  },
+  {
+    "evidence_ttl_ms": 35.0,
+    "expired_evidence_abstention_probability": 0.7395311635791795,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "mean_safe_world_evidence_traffic_kib": 9.801000000000062,
+    "p95_action_ready_latency_ms": 10.58192,
+    "radio_initial_age_ms": 15.0,
+    "timely_safe_world_coverage": 0.05324178601729995,
+    "visual_initial_age_ms": 24.0
+  },
+  {
+    "evidence_ttl_ms": 35.0,
+    "expired_evidence_abstention_probability": 0.24632410867859725,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "mean_safe_world_evidence_traffic_kib": 2.6037343950750076,
+    "p95_action_ready_latency_ms": 11.0,
+    "radio_initial_age_ms": 15.0,
+    "timely_safe_world_coverage": 0.5201477230747086,
+    "visual_initial_age_ms": 24.0
+  }
+]

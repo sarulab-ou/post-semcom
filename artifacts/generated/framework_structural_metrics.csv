@@ -1,0 +1,5 @@
+metric,value,state_count,passes,interpretation
+sender_transfer_gain_mass,0.0830093798267956,64,True,feedback strictly enlarges reachable admissible support in some sender-finalized states
+receiver_reachability_mismatch_count,0.0,0,True,coordination preserves pre-timing evidence reachability under the declared one-way fallback
+receiver_coordination_payload_saving_bytes,6642.098746905596,248,True,receiver status suppresses redundant evidence-record payload in some episodes
+structural_check_pass_count,11,11,True,"declared validation, conflict, sufficiency, and authorization checks pass"

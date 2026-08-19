@@ -1,0 +1,110 @@
+{
+  "decision": {
+    "assembly_location": "SENDER",
+    "credential_state": "NOT_RECORDED",
+    "deadline_met": true,
+    "evidence_outcome": "ACCEPT",
+    "failure_reason": null,
+    "finalization_outcome": "FINALIZED",
+    "finalizer": "SENDER",
+    "handoff_outcome": "NOT_REQUIRED"
+  },
+  "evidence_records": [
+    {
+      "age_at_decision": 31.90112,
+      "calibration_reference": "synthetic://calibration/receiver_camera",
+      "claim": "corridor_is_clear",
+      "contract_item": "visual_clearance",
+      "measurement_time": "2026-08-15T23:59:59.980Z",
+      "modality": "VISUAL",
+      "proposal_binding": "synthetic-proposal-3143:1",
+      "provenance_reference": "synthetic://state/3143/receiver_visual",
+      "record_id": "receiver-visual-3143",
+      "relation": "SUPPORTS",
+      "source": "receiver_camera",
+      "validity": "VALID"
+    },
+    {
+      "age_at_decision": 26.90112,
+      "calibration_reference": "synthetic://calibration/receiver_radio",
+      "claim": "no_moving_obstacle",
+      "contract_item": "radio_no_motion",
+      "measurement_time": "2026-08-15T23:59:59.985Z",
+      "modality": "RADIO",
+      "proposal_binding": "synthetic-proposal-3143:1",
+      "provenance_reference": "synthetic://state/3143/receiver_radio",
+      "record_id": "receiver-radio-3143",
+      "relation": "SUPPORTS",
+      "source": "receiver_radio",
+      "validity": "VALID"
+    }
+  ],
+  "ground_truth": {
+    "availability": "RECORDED",
+    "labels": {
+      "corridor_is_clear": true,
+      "no_moving_obstacle": true
+    },
+    "reference": "synthetic://state/3143/truth"
+  },
+  "messages": [
+    {
+      "bytes": 0,
+      "delivery_outcome": "DELIVERED",
+      "direction": "SENDER_TO_RECEIVER",
+      "packet_count": null,
+      "receive_time": 0.5,
+      "retransmission_count": null,
+      "role": "PROPOSAL",
+      "send_time": 0.0
+    },
+    {
+      "bytes": 11264,
+      "delivery_outcome": "DELIVERED",
+      "direction": "RECEIVER_TO_SENDER",
+      "packet_count": null,
+      "receive_time": 1.4011200000000006,
+      "retransmission_count": null,
+      "role": "EVIDENCE_TRANSFER",
+      "send_time": 0.5
+    },
+    {
+      "bytes": 0,
+      "delivery_outcome": "DELIVERED",
+      "direction": "SENDER_TO_RECEIVER",
+      "packet_count": null,
+      "receive_time": 1.9011200000000006,
+      "retransmission_count": null,
+      "role": "FINALIZATION",
+      "send_time": 1.4011200000000006
+    }
+  ],
+  "proposal": {
+    "action": "proceed_through_aisle",
+    "evidence_contract_id": "visual-clearance+radio-no-motion-v1",
+    "proposal_id": "synthetic-proposal-3143",
+    "target": "warehouse_aisle_A",
+    "validity_window": {
+      "end": "2026-08-16T00:00:00.033Z",
+      "start": "2026-08-16T00:00:00Z"
+    },
+    "version": "1"
+  },
+  "record_type": "post_semantic_episode",
+  "requirements": {
+    "deadline": 33.0,
+    "finalization_authority": "SENDER",
+    "freshness_limit": 35.0,
+    "maximum_selective_risk": 0.0075,
+    "minimum_coverage": 0.6
+  },
+  "runtime": {
+    "action_outcome": null,
+    "actuation": null,
+    "fallback": null,
+    "gate_outcome": "NOT_RECORDED",
+    "plant_state_reference": null
+  },
+  "schema_version": "1.0.0",
+  "synthetic_or_measured": "SYNTHETIC"
+}

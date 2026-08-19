@@ -1,0 +1,1282 @@
+[
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 0,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 0,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 1,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 1,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 2,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 2,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 3,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 3,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 4,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 4,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 5,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 5,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 6,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 6,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 7,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 7,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 8,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 8,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 9,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 9,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 10,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 10,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 11,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 11,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 12,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 12,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 13,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 13,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 14,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 14,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 15,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 15,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 16,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 16,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 17,
+    "selected_interaction": "feedback",
+    "selection_basis": "minimum_traffic_feasible",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 17,
+    "selected_interaction": "feedback",
+    "selection_basis": "minimum_traffic_feasible",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 18,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 18,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 19,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 19,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 20,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 20,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 21,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 21,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 22,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 22,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 23,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 23,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 24,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 24,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 25,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 25,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 26,
+    "selected_interaction": "feedback",
+    "selection_basis": "minimum_traffic_feasible",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 26,
+    "selected_interaction": "feedback",
+    "selection_basis": "minimum_traffic_feasible",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 27,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 27,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 28,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 28,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 29,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 29,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 30,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 30,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 31,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 31,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 32,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 32,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 33,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 33,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 34,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 34,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 35,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 35,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 36,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 36,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 37,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 37,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 38,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 38,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 39,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 39,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 40,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 40,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 41,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 41,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 42,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 42,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 43,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 43,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 44,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 44,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 45,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 45,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 46,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 46,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 47,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 47,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 48,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 48,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 49,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 49,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 50,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 50,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 51,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 51,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 52,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 52,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 53,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 53,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 54,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 54,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 55,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 55,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 56,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 56,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 57,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 57,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 58,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 58,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 59,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 59,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 60,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 60,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 61,
+    "selected_interaction": "feedback",
+    "selection_basis": "minimum_traffic_feasible",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 61,
+    "selected_interaction": "feedback",
+    "selection_basis": "minimum_traffic_feasible",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 62,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 62,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "sender",
+    "ordering_reversal": false,
+    "sample_id": 63,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "finalizer": "receiver",
+    "ordering_reversal": false,
+    "sample_id": 63,
+    "selected_interaction": "infeasible",
+    "selection_basis": "no_communication_case_meets_requirements",
+    "selective_risk_ceiling": 0.0075
+  }
+]

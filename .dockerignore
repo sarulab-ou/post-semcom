@@ -1,0 +1,11 @@
+.git
+__pycache__
+**/__pycache__
+*.pyc
+build
+dist
+tmp
+github
+pdf
+REVIEW
+tasks

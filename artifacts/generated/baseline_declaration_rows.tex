@@ -1,0 +1,19 @@
+% Generated; do not edit.
+Required evidence & Visual clearance + Radio no-motion & two-record contract \\
+Claim-truth prior $p_{\mathrm{truth}}$ & 0.90 per claim & synthetic truth prior \\
+Claim-truth dependence & Independent & the two claim truths are independent \\
+Evidence availability $q$ & 0.90 per endpoint/item & per endpoint and evidence item \\
+Conditional validity & 0.99 & available record passes record validation \\
+Evidence-relation error & 0.10 & incorrect support/conflict relation conditional on availability and passing record validation \\
+Endpoint correlation $\rho$ & 0.25 & availability correlation per record \\
+Delivery success $(p_f,p_r)$ & (0.99, 0.99) & forward and reverse logical messages \\
+Records $(B_V,B_R)$ & (10, 1) KiB & asymmetric evidence payloads \\
+Link rate $R$ & 100 Mbit/s & serialization rate \\
+Per-message latency $\delta$ & 0.5 ms & once per logical message \\
+Processing time $T_p$ & 10 ms & validation, assembly, and finalization \\
+Decision deadline $D$ & 33 ms & one 30-Hz design period, proposal to action-ready \\
+Initial ages $(A_V,A_R)$ & (20, 15) ms & age at proposal time \\
+Evidence TTL & 35 ms & revalidated at action-ready time \\
+Finalizer availability $(a_S,a_R)$ & (0.995, 0.985) & used only in the matched finalizer comparison \\
+Handoff $(h,\tau_h,B_h)$ & (0.98, 1 ms, 64 B) & used only when finalizer differs from assembly \\
+Sender/Feedback format & reference manifest & self-contained is a reported sensitivity \\

@@ -1,0 +1,22 @@
+[
+  {
+    "layer": "Evidence",
+    "required_fields": "synchronized sender/receiver records; ground truth; contract item; support/conflict relation; source; measurement time; age at decision; calibration; provenance; proposal binding",
+    "what_can_be_evaluated": "validity, evidence sufficiency, selective risk, and false-safe behavior"
+  },
+  {
+    "layer": "Delivery",
+    "required_fields": "forward/reverse message; message role; bytes; loss; delay; retransmission and packetization when available",
+    "what_can_be_evaluated": "feedback function, communication cost, and comparison fairness"
+  },
+  {
+    "layer": "Finalization",
+    "required_fields": "finalizer; assembly location; credential state; handoff; finalization outcome",
+    "what_can_be_evaluated": "authority feasibility and completion failure"
+  },
+  {
+    "layer": "Runtime",
+    "required_fields": "plant state; runtime-gate outcome; fallback; actuation; physical result",
+    "what_can_be_evaluated": "closed-loop safety beyond pre-action verification"
+  }
+]

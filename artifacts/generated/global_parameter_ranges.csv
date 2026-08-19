@@ -1,0 +1,16 @@
+parameter,baseline,lower,upper
+evidence_availability,0.9,0.75,0.99
+conditional_validity,0.99,0.97,1.0
+evidence_relation_error,0.1,0.05,0.15
+endpoint_correlation,0.25,0.0,0.6
+forward_delivery_success,0.99,0.97,1.0
+reverse_delivery_success,0.99,0.97,1.0
+visual_record_kib,10.0,4.0,20.0
+radio_record_kib,1.0,0.5,2.0
+link_rate_mbps,100.0,50.0,250.0
+fixed_per_message_latency_ms,0.5,0.1,5.0
+processing_time_ms,10.0,5.0,15.0
+decision_deadline_ms,33.0,25.0,50.0
+visual_initial_age_ms,20.0,10.0,24.0
+radio_initial_age_ms,15.0,5.0,22.0
+record_ttl_ms,35.0,30.0,50.0

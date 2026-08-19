@@ -1,0 +1,43 @@
+\pdfminorversion=7
+% Master manuscript for the arXiv Technical Companion.
+% Compile this file from the repository root.
+\documentclass[journal]{IEEEtran}
+
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{float}
+\usepackage[hidelinks]{hyperref}
+\Urlmuskip=0mu plus 1mu
+\usepackage{stfloats}
+\usepackage{flushend}
+
+% Keep float-only Appendix pages compact instead of stretching large gaps
+% between consecutive generated tables and figures.
+\makeatletter
+\setlength{\@dblfpsep}{10pt plus 2pt minus 2pt}
+\makeatother
+
+\graphicspath{{fig/}}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{Y}{>{\centering\arraybackslash}X}
+\title{The Verification Gap in Networked Physical AI: \\
+A Post-Semantic Communication Framework}
+
+\author{Shunsuke Saruwatari
+\thanks{S. Saruwatari is with the Graduate School of
+Information Science and Technology, The University of Osaka, Suita, Osaka, Japan.}}
+
+\begin{document}
+
+% Keep the master file tied to the current arXiv version only.
+\input{main/arxiv24}
+
+\end{document}

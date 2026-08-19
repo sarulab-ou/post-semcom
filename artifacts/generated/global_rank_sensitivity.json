@@ -1,0 +1,1082 @@
+[
+  {
+    "absolute_rank_correlation": 0.8472665366134254,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.8472665366134254
+  },
+  {
+    "absolute_rank_correlation": 0.6017399267399266,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.6017399267399266
+  },
+  {
+    "absolute_rank_correlation": 0.17168530798982456,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.17168530798982456
+  },
+  {
+    "absolute_rank_correlation": 0.25434981684981683,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.25434981684981683
+  },
+  {
+    "absolute_rank_correlation": 0.3190340173297301,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.3190340173297301
+  },
+  {
+    "absolute_rank_correlation": 0.025869963369963365,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.025869963369963365
+  },
+  {
+    "absolute_rank_correlation": 0.05919155773327774,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.05919155773327774
+  },
+  {
+    "absolute_rank_correlation": 0.07875457875457874,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.07875457875457874
+  },
+  {
+    "absolute_rank_correlation": 0.1474403726116566,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1474403726116566
+  },
+  {
+    "absolute_rank_correlation": 0.16108058608058606,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.16108058608058606
+  },
+  {
+    "absolute_rank_correlation": 0.016934789456017132,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.016934789456017132
+  },
+  {
+    "absolute_rank_correlation": 0.1883241758241758,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1883241758241758
+  },
+  {
+    "absolute_rank_correlation": 0.3434622792514002,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.3434622792514002
+  },
+  {
+    "absolute_rank_correlation": 0.9747252747252746,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.9747252747252746
+  },
+  {
+    "absolute_rank_correlation": 0.032952946194523186,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.032952946194523186
+  },
+  {
+    "absolute_rank_correlation": 0.11813186813186811,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.11813186813186811
+  },
+  {
+    "absolute_rank_correlation": 0.12715987373672405,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12715987373672405
+  },
+  {
+    "absolute_rank_correlation": 0.12967032967032965,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12967032967032965
+  },
+  {
+    "absolute_rank_correlation": 0.06686835674243301,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.06686835674243301
+  },
+  {
+    "absolute_rank_correlation": 0.045604395604395595,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.045604395604395595
+  },
+  {
+    "absolute_rank_correlation": 0.07910540352120587,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.07910540352120587
+  },
+  {
+    "absolute_rank_correlation": 0.1345238095238095,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1345238095238095
+  },
+  {
+    "absolute_rank_correlation": 0.04083598756511844,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.04083598756511844
+  },
+  {
+    "absolute_rank_correlation": 0.022115384615384613,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.022115384615384613
+  },
+  {
+    "absolute_rank_correlation": 0.12101843452939982,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12101843452939982
+  },
+  {
+    "absolute_rank_correlation": 0.04235347985347985,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.04235347985347985
+  },
+  {
+    "absolute_rank_correlation": 0.021861690312639168,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.021861690312639168
+  },
+  {
+    "absolute_rank_correlation": 0.08717948717948716,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.08717948717948716
+  },
+  {
+    "absolute_rank_correlation": 0.19354699830246372,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.19354699830246372
+  },
+  {
+    "absolute_rank_correlation": 0.12138278388278387,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12138278388278387
+  },
+  {
+    "absolute_rank_correlation": 0.45669447259253304,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.45669447259253304
+  },
+  {
+    "absolute_rank_correlation": 0.5430860805860805,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.5430860805860805
+  },
+  {
+    "absolute_rank_correlation": 0.09642425166943891,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.09642425166943891
+  },
+  {
+    "absolute_rank_correlation": 0.23388278388278386,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.23388278388278386
+  },
+  {
+    "absolute_rank_correlation": 0.6231285191853759,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.6231285191853759
+  },
+  {
+    "absolute_rank_correlation": 0.11762820512820511,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.11762820512820511
+  },
+  {
+    "absolute_rank_correlation": 0.20302381145930692,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.20302381145930692
+  },
+  {
+    "absolute_rank_correlation": 0.16849816849816848,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.16849816849816848
+  },
+  {
+    "absolute_rank_correlation": 0.16241445534888102,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.16241445534888102
+  },
+  {
+    "absolute_rank_correlation": 0.15902014652014648,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.15902014652014648
+  },
+  {
+    "absolute_rank_correlation": 0.11955412814183647,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.11955412814183647
+  },
+  {
+    "absolute_rank_correlation": 0.2049450549450549,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.2049450549450549
+  },
+  {
+    "absolute_rank_correlation": 0.20568822622673305,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.20568822622673305
+  },
+  {
+    "absolute_rank_correlation": 0.979120879120879,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.979120879120879
+  },
+  {
+    "absolute_rank_correlation": 0.03302955547895501,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.03302955547895501
+  },
+  {
+    "absolute_rank_correlation": 0.12271062271062269,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12271062271062269
+  },
+  {
+    "absolute_rank_correlation": 0.12132274828917967,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12132274828917967
+  },
+  {
+    "absolute_rank_correlation": 0.11437728937728936,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.11437728937728936
+  },
+  {
+    "absolute_rank_correlation": 0.08916601833748496,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.08916601833748496
+  },
+  {
+    "absolute_rank_correlation": 0.026236263736263733,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.026236263736263733
+  },
+  {
+    "absolute_rank_correlation": 0.13312886200001617,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.13312886200001617
+  },
+  {
+    "absolute_rank_correlation": 0.14157509157509154,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.14157509157509154
+  },
+  {
+    "absolute_rank_correlation": 0.003629116665976976,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.003629116665976976
+  },
+  {
+    "absolute_rank_correlation": 0.00032051282051282046,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.00032051282051282046
+  },
+  {
+    "absolute_rank_correlation": 0.09456375515080513,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.09456375515080513
+  },
+  {
+    "absolute_rank_correlation": 0.04331501831501831,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.04331501831501831
+  },
+  {
+    "absolute_rank_correlation": 0.08951055472982454,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.08951055472982454
+  },
+  {
+    "absolute_rank_correlation": 0.07110805860805859,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.07110805860805859
+  },
+  {
+    "absolute_rank_correlation": 0.3011477759976211,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.3011477759976211
+  },
+  {
+    "absolute_rank_correlation": 0.11785714285714284,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.11785714285714284
+  },
+  {
+    "absolute_rank_correlation": 0.47677092186975084,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.47677092186975084
+  },
+  {
+    "absolute_rank_correlation": 0.6017399267399266,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.6017399267399266
+  },
+  {
+    "absolute_rank_correlation": 0.05081096985907685,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.05081096985907685
+  },
+  {
+    "absolute_rank_correlation": 0.25434981684981683,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.25434981684981683
+  },
+  {
+    "absolute_rank_correlation": 0.6647119483457953,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.6647119483457953
+  },
+  {
+    "absolute_rank_correlation": 0.025869963369963365,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.025869963369963365
+  },
+  {
+    "absolute_rank_correlation": 0.22028777554773804,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.22028777554773804
+  },
+  {
+    "absolute_rank_correlation": 0.07875457875457874,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.07875457875457874
+  },
+  {
+    "absolute_rank_correlation": 0.16920190413847683,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.16920190413847683
+  },
+  {
+    "absolute_rank_correlation": 0.16108058608058606,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.16108058608058606
+  },
+  {
+    "absolute_rank_correlation": 0.11280126942565122,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.11280126942565122
+  },
+  {
+    "absolute_rank_correlation": 0.1883241758241758,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1883241758241758
+  },
+  {
+    "absolute_rank_correlation": 0.19417212828022334,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.19417212828022334
+  },
+  {
+    "absolute_rank_correlation": 0.9747252747252746,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.9747252747252746
+  },
+  {
+    "absolute_rank_correlation": 0.01942637621302848,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.01942637621302848
+  },
+  {
+    "absolute_rank_correlation": 0.11813186813186811,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.11813186813186811
+  },
+  {
+    "absolute_rank_correlation": 0.18633743409996892,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.18633743409996892
+  },
+  {
+    "absolute_rank_correlation": 0.12967032967032965,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12967032967032965
+  },
+  {
+    "absolute_rank_correlation": 0.01195821743301989,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.01195821743301989
+  },
+  {
+    "absolute_rank_correlation": 0.045604395604395595,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.045604395604395595
+  },
+  {
+    "absolute_rank_correlation": 0.11944472355510671,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.11944472355510671
+  },
+  {
+    "absolute_rank_correlation": 0.1345238095238095,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1345238095238095
+  },
+  {
+    "absolute_rank_correlation": 0.014432331384679177,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.014432331384679177
+  },
+  {
+    "absolute_rank_correlation": 0.022115384615384613,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.022115384615384613
+  },
+  {
+    "absolute_rank_correlation": 0.09539083791397475,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.09539083791397475
+  },
+  {
+    "absolute_rank_correlation": 0.04235347985347985,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.04235347985347985
+  },
+  {
+    "absolute_rank_correlation": 0.0886557499344578,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.0886557499344578
+  },
+  {
+    "absolute_rank_correlation": 0.08717948717948716,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.08717948717948716
+  },
+  {
+    "absolute_rank_correlation": 0.23632369930849267,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.23632369930849267
+  },
+  {
+    "absolute_rank_correlation": 0.12138278388278387,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.12138278388278387
+  },
+  {
+    "absolute_rank_correlation": 0.44466517661179766,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.44466517661179766
+  },
+  {
+    "absolute_rank_correlation": 0.2899267399267399,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_availability",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.2899267399267399
+  },
+  {
+    "absolute_rank_correlation": 0.10185940197187768,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.10185940197187768
+  },
+  {
+    "absolute_rank_correlation": 0.31712454212454205,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "conditional_validity",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.31712454212454205
+  },
+  {
+    "absolute_rank_correlation": 0.6222650081706957,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.6222650081706957
+  },
+  {
+    "absolute_rank_correlation": 0.3573717948717948,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "evidence_relation_error",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.3573717948717948
+  },
+  {
+    "absolute_rank_correlation": 0.216663531909537,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.216663531909537
+  },
+  {
+    "absolute_rank_correlation": 0.2422161172161172,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "endpoint_correlation",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.2422161172161172
+  },
+  {
+    "absolute_rank_correlation": 0.1682355602645028,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1682355602645028
+  },
+  {
+    "absolute_rank_correlation": 0.08988095238095237,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "forward_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.08988095238095237
+  },
+  {
+    "absolute_rank_correlation": 0.12751934145014698,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.12751934145014698
+  },
+  {
+    "absolute_rank_correlation": 0.1482142857142857,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "reverse_delivery_success",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.1482142857142857
+  },
+  {
+    "absolute_rank_correlation": 0.20312206116519094,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.20312206116519094
+  },
+  {
+    "absolute_rank_correlation": 0.8660256410256408,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.8660256410256408
+  },
+  {
+    "absolute_rank_correlation": 0.031581463973254544,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.031581463973254544
+  },
+  {
+    "absolute_rank_correlation": 0.1735347985347985,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_record_kib",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.1735347985347985
+  },
+  {
+    "absolute_rank_correlation": 0.1288046335885934,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.1288046335885934
+  },
+  {
+    "absolute_rank_correlation": 0.09299450549450548,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "link_rate_mbps",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.09299450549450548
+  },
+  {
+    "absolute_rank_correlation": 0.08496699100943919,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.08496699100943919
+  },
+  {
+    "absolute_rank_correlation": 0.09702380952380951,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "fixed_per_message_latency_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.09702380952380951
+  },
+  {
+    "absolute_rank_correlation": 0.13665409629124822,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.13665409629124822
+  },
+  {
+    "absolute_rank_correlation": 0.11437728937728936,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "processing_time_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.11437728937728936
+  },
+  {
+    "absolute_rank_correlation": 0.005829717913667627,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.005829717913667627
+  },
+  {
+    "absolute_rank_correlation": 0.005815018315018314,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "decision_deadline_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.005815018315018314
+  },
+  {
+    "absolute_rank_correlation": 0.10360372701691208,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.10360372701691208
+  },
+  {
+    "absolute_rank_correlation": 0.04995421245421244,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "visual_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.04995421245421244
+  },
+  {
+    "absolute_rank_correlation": 0.09800352555653846,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.09800352555653846
+  },
+  {
+    "absolute_rank_correlation": 0.005265567765567765,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "radio_initial_age_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.005265567765567765
+  },
+  {
+    "absolute_rank_correlation": 0.298233679410225,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "timely_safe_world_coverage",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": 0.298233679410225
+  },
+  {
+    "absolute_rank_correlation": 0.13489010989010985,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "metric": "mean_safe_world_evidence_traffic_kib",
+    "parameter": "record_ttl_ms",
+    "sample_count": 64,
+    "spearman_rank_correlation": -0.13489010989010985
+  }
+]

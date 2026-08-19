@@ -1,0 +1,92 @@
+[
+  {
+    "baseline": 0.9,
+    "lower": 0.75,
+    "parameter": "evidence_availability",
+    "upper": 0.99
+  },
+  {
+    "baseline": 0.99,
+    "lower": 0.97,
+    "parameter": "conditional_validity",
+    "upper": 1.0
+  },
+  {
+    "baseline": 0.1,
+    "lower": 0.05,
+    "parameter": "evidence_relation_error",
+    "upper": 0.15
+  },
+  {
+    "baseline": 0.25,
+    "lower": 0.0,
+    "parameter": "endpoint_correlation",
+    "upper": 0.6
+  },
+  {
+    "baseline": 0.99,
+    "lower": 0.97,
+    "parameter": "forward_delivery_success",
+    "upper": 1.0
+  },
+  {
+    "baseline": 0.99,
+    "lower": 0.97,
+    "parameter": "reverse_delivery_success",
+    "upper": 1.0
+  },
+  {
+    "baseline": 10.0,
+    "lower": 4.0,
+    "parameter": "visual_record_kib",
+    "upper": 20.0
+  },
+  {
+    "baseline": 1.0,
+    "lower": 0.5,
+    "parameter": "radio_record_kib",
+    "upper": 2.0
+  },
+  {
+    "baseline": 100.0,
+    "lower": 50.0,
+    "parameter": "link_rate_mbps",
+    "upper": 250.0
+  },
+  {
+    "baseline": 0.5,
+    "lower": 0.1,
+    "parameter": "fixed_per_message_latency_ms",
+    "upper": 5.0
+  },
+  {
+    "baseline": 10.0,
+    "lower": 5.0,
+    "parameter": "processing_time_ms",
+    "upper": 15.0
+  },
+  {
+    "baseline": 33.0,
+    "lower": 25.0,
+    "parameter": "decision_deadline_ms",
+    "upper": 50.0
+  },
+  {
+    "baseline": 20.0,
+    "lower": 10.0,
+    "parameter": "visual_initial_age_ms",
+    "upper": 24.0
+  },
+  {
+    "baseline": 15.0,
+    "lower": 5.0,
+    "parameter": "radio_initial_age_ms",
+    "upper": 22.0
+  },
+  {
+    "baseline": 35.0,
+    "lower": 30.0,
+    "parameter": "record_ttl_ms",
+    "upper": 50.0
+  }
+]

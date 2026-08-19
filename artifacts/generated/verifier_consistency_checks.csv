@@ -1,0 +1,12 @@
+scenario,verification_outcome,finalization_outcome,expected_outcome,passes
+complete supporting evidence,accept,accept,accept,True
+incomplete supporting evidence,abstain,abstain,abstain,True
+admissible Visual conflict,reject,reject,reject,True
+conflict before completeness,reject,reject,reject,True
+invalid-provenance conflict,accept,accept,accept,True
+binding-mismatched conflict,accept,accept,accept,True
+expired conflict,accept,accept,accept,True
+revoked-calibration conflict,accept,accept,accept,True
+untrusted-source conflict,accept,accept,accept,True
+excessive-uncertainty conflict,accept,accept,accept,True
+complete evidence at unauthorized endpoint,accept,abstain,abstain,True

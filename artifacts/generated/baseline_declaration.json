@@ -1,0 +1,92 @@
+[
+  {
+    "baseline": "Visual clearance + Radio no-motion",
+    "interpretation": "two-record contract",
+    "parameter": "Required evidence"
+  },
+  {
+    "baseline": "0.90 per claim",
+    "interpretation": "synthetic truth prior",
+    "parameter": "Claim-truth prior $p_{\\mathrm{truth}}$"
+  },
+  {
+    "baseline": "Independent",
+    "interpretation": "the two claim truths are independent",
+    "parameter": "Claim-truth dependence"
+  },
+  {
+    "baseline": "0.90 per endpoint/item",
+    "interpretation": "per endpoint and evidence item",
+    "parameter": "Evidence availability $q$"
+  },
+  {
+    "baseline": "0.99",
+    "interpretation": "available record passes record validation",
+    "parameter": "Conditional validity"
+  },
+  {
+    "baseline": "0.10",
+    "interpretation": "incorrect support/conflict relation conditional on availability and passing record validation",
+    "parameter": "Evidence-relation error"
+  },
+  {
+    "baseline": "0.25",
+    "interpretation": "availability correlation per record",
+    "parameter": "Endpoint correlation $\\rho$"
+  },
+  {
+    "baseline": "(0.99, 0.99)",
+    "interpretation": "forward and reverse logical messages",
+    "parameter": "Delivery success $(p_f,p_r)$"
+  },
+  {
+    "baseline": "(10, 1) KiB",
+    "interpretation": "asymmetric evidence payloads",
+    "parameter": "Records $(B_V,B_R)$"
+  },
+  {
+    "baseline": "100 Mbit/s",
+    "interpretation": "serialization rate",
+    "parameter": "Link rate $R$"
+  },
+  {
+    "baseline": "0.5 ms",
+    "interpretation": "once per logical message",
+    "parameter": "Per-message latency $\\delta$"
+  },
+  {
+    "baseline": "10 ms",
+    "interpretation": "validation, assembly, and finalization",
+    "parameter": "Processing time $T_p$"
+  },
+  {
+    "baseline": "33 ms",
+    "interpretation": "one 30-Hz design period, proposal to action-ready",
+    "parameter": "Decision deadline $D$"
+  },
+  {
+    "baseline": "(20, 15) ms",
+    "interpretation": "age at proposal time",
+    "parameter": "Initial ages $(A_V,A_R)$"
+  },
+  {
+    "baseline": "35 ms",
+    "interpretation": "revalidated at action-ready time",
+    "parameter": "Evidence TTL"
+  },
+  {
+    "baseline": "(0.995, 0.985)",
+    "interpretation": "used only in the matched finalizer comparison",
+    "parameter": "Finalizer availability $(a_S,a_R)$"
+  },
+  {
+    "baseline": "(0.98, 1 ms, 64 B)",
+    "interpretation": "used only when finalizer differs from assembly",
+    "parameter": "Handoff $(h,\\tau_h,B_h)$"
+  },
+  {
+    "baseline": "reference manifest",
+    "interpretation": "self-contained is a reported sensitivity",
+    "parameter": "Sender/Feedback format"
+  }
+]

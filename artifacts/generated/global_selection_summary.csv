@@ -1,0 +1,3 @@
+finalizer,sample_count,coverage_floor,selective_risk_ceiling,baseline_selection,one_way_selection_frequency,feedback_selection_frequency,infeasible_frequency,ordering_reversal_frequency
+sender,64,0.6,0.0075,infeasible,0.0,0.046875,0.953125,0.0
+receiver,64,0.6,0.0075,infeasible,0.0,0.046875,0.953125,0.0

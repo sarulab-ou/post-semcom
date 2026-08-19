@@ -1,0 +1,164 @@
+[
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.38,
+    "feedback_cells": 0,
+    "finalizer": "sender",
+    "infeasible_cells": 2673,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.005
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.38,
+    "feedback_cells": 675,
+    "finalizer": "sender",
+    "infeasible_cells": 1998,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.0075
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.38,
+    "feedback_cells": 675,
+    "finalizer": "sender",
+    "infeasible_cells": 1998,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.01
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.4,
+    "feedback_cells": 0,
+    "finalizer": "sender",
+    "infeasible_cells": 2673,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.005
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.4,
+    "feedback_cells": 675,
+    "finalizer": "sender",
+    "infeasible_cells": 1998,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.0075
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.4,
+    "feedback_cells": 675,
+    "finalizer": "sender",
+    "infeasible_cells": 1998,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.01
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.42,
+    "feedback_cells": 0,
+    "finalizer": "sender",
+    "infeasible_cells": 2673,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.005
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.42,
+    "feedback_cells": 675,
+    "finalizer": "sender",
+    "infeasible_cells": 1998,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.0075
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.42,
+    "feedback_cells": 675,
+    "finalizer": "sender",
+    "infeasible_cells": 1998,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.01
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.38,
+    "feedback_cells": 81,
+    "finalizer": "receiver",
+    "infeasible_cells": 2592,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.005
+  },
+  {
+    "all_three_classes_present": true,
+    "coverage_floor": 0.38,
+    "feedback_cells": 836,
+    "finalizer": "receiver",
+    "infeasible_cells": 1396,
+    "one_way_cells": 441,
+    "selective_error_ceiling": 0.0075
+  },
+  {
+    "all_three_classes_present": true,
+    "coverage_floor": 0.38,
+    "feedback_cells": 836,
+    "finalizer": "receiver",
+    "infeasible_cells": 1396,
+    "one_way_cells": 441,
+    "selective_error_ceiling": 0.01
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.4,
+    "feedback_cells": 81,
+    "finalizer": "receiver",
+    "infeasible_cells": 2592,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.005
+  },
+  {
+    "all_three_classes_present": true,
+    "coverage_floor": 0.4,
+    "feedback_cells": 836,
+    "finalizer": "receiver",
+    "infeasible_cells": 1396,
+    "one_way_cells": 441,
+    "selective_error_ceiling": 0.0075
+  },
+  {
+    "all_three_classes_present": true,
+    "coverage_floor": 0.4,
+    "feedback_cells": 836,
+    "finalizer": "receiver",
+    "infeasible_cells": 1396,
+    "one_way_cells": 441,
+    "selective_error_ceiling": 0.01
+  },
+  {
+    "all_three_classes_present": false,
+    "coverage_floor": 0.42,
+    "feedback_cells": 81,
+    "finalizer": "receiver",
+    "infeasible_cells": 2592,
+    "one_way_cells": 0,
+    "selective_error_ceiling": 0.005
+  },
+  {
+    "all_three_classes_present": true,
+    "coverage_floor": 0.42,
+    "feedback_cells": 836,
+    "finalizer": "receiver",
+    "infeasible_cells": 1396,
+    "one_way_cells": 441,
+    "selective_error_ceiling": 0.0075
+  },
+  {
+    "all_three_classes_present": true,
+    "coverage_floor": 0.42,
+    "feedback_cells": 836,
+    "finalizer": "receiver",
+    "infeasible_cells": 1396,
+    "one_way_cells": 441,
+    "selective_error_ceiling": 0.01
+  }
+]

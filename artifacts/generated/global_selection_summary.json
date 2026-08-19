@@ -1,0 +1,24 @@
+[
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "feedback_selection_frequency": 0.046875,
+    "finalizer": "sender",
+    "infeasible_frequency": 0.953125,
+    "one_way_selection_frequency": 0.0,
+    "ordering_reversal_frequency": 0.0,
+    "sample_count": 64,
+    "selective_risk_ceiling": 0.0075
+  },
+  {
+    "baseline_selection": "infeasible",
+    "coverage_floor": 0.6,
+    "feedback_selection_frequency": 0.046875,
+    "finalizer": "receiver",
+    "infeasible_frequency": 0.953125,
+    "one_way_selection_frequency": 0.0,
+    "ordering_reversal_frequency": 0.0,
+    "sample_count": 64,
+    "selective_risk_ceiling": 0.0075
+  }
+]

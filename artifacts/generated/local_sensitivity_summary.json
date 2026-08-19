@@ -1,0 +1,34 @@
+[
+  {
+    "coverage_change_pp_per_plus_10_percent": 12.732263477999918,
+    "finalizer": "sender",
+    "interaction": "one_way",
+    "largest_coverage_driver": "evidence_availability",
+    "largest_traffic_driver": "conditional_validity",
+    "traffic_change_percent_per_plus_10_percent": 10.000000000000304
+  },
+  {
+    "coverage_change_pp_per_plus_10_percent": 6.274138710313065,
+    "finalizer": "sender",
+    "interaction": "feedback",
+    "largest_coverage_driver": "forward_delivery_success",
+    "largest_traffic_driver": "visual_record_kib",
+    "traffic_change_percent_per_plus_10_percent": 9.090909090909186
+  },
+  {
+    "coverage_change_pp_per_plus_10_percent": 6.273209487801067,
+    "finalizer": "receiver",
+    "interaction": "one_way",
+    "largest_coverage_driver": "forward_delivery_success",
+    "largest_traffic_driver": "conditional_validity",
+    "traffic_change_percent_per_plus_10_percent": 10.000000000000304
+  },
+  {
+    "coverage_change_pp_per_plus_10_percent": 6.273209487801067,
+    "finalizer": "receiver",
+    "interaction": "feedback",
+    "largest_coverage_driver": "forward_delivery_success",
+    "largest_traffic_driver": "reverse_delivery_success",
+    "traffic_change_percent_per_plus_10_percent": -27.64208829648166
+  }
+]

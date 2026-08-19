@@ -1,0 +1,217 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:post-semcom:schema:post-semantic-episode:1.0.0",
+  "title": "Post-Semantic Communication Episode",
+  "description": "Portable minimum reporting record for synthetic or measured verifiable Physical-AI decision episodes.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "record_type",
+    "synthetic_or_measured",
+    "proposal",
+    "ground_truth",
+    "evidence_records",
+    "messages",
+    "decision",
+    "runtime",
+    "requirements"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "record_type": {
+      "const": "post_semantic_episode"
+    },
+    "synthetic_or_measured": {
+      "enum": ["SYNTHETIC", "MEASURED"]
+    },
+    "proposal": {
+      "$ref": "#/$defs/proposal"
+    },
+    "ground_truth": {
+      "$ref": "#/$defs/ground_truth"
+    },
+    "evidence_records": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/evidence_record"
+      }
+    },
+    "messages": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/message"
+      }
+    },
+    "decision": {
+      "$ref": "#/$defs/decision"
+    },
+    "runtime": {
+      "$ref": "#/$defs/runtime"
+    },
+    "requirements": {
+      "$ref": "#/$defs/requirements"
+    }
+  },
+  "$defs": {
+    "proposal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "proposal_id",
+        "version",
+        "action",
+        "target",
+        "validity_window",
+        "evidence_contract_id"
+      ],
+      "properties": {
+        "proposal_id": {"type": "string", "minLength": 1},
+        "version": {"type": "string", "minLength": 1},
+        "action": {"type": "string", "minLength": 1},
+        "target": {"type": "string", "minLength": 1},
+        "validity_window": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["start", "end"],
+          "properties": {
+            "start": {"type": "string", "format": "date-time"},
+            "end": {"type": "string", "format": "date-time"}
+          }
+        },
+        "evidence_contract_id": {"type": "string", "minLength": 1}
+      }
+    },
+    "ground_truth": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["availability", "reference", "labels"],
+      "properties": {
+        "availability": {"enum": ["RECORDED", "NOT_RECORDED"]},
+        "reference": {"type": ["string", "null"]},
+        "labels": {
+          "type": "object",
+          "additionalProperties": {
+            "type": ["string", "number", "boolean", "null"]
+          }
+        }
+      }
+    },
+    "evidence_record": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "record_id",
+        "contract_item",
+        "claim",
+        "relation",
+        "modality",
+        "source",
+        "measurement_time",
+        "age_at_decision",
+        "validity",
+        "calibration_reference",
+        "provenance_reference",
+        "proposal_binding"
+      ],
+      "properties": {
+        "record_id": {"type": "string", "minLength": 1},
+        "contract_item": {"type": "string", "minLength": 1},
+        "claim": {"type": "string", "minLength": 1},
+        "relation": {"enum": ["SUPPORTS", "CONFLICTS"]},
+        "modality": {"type": "string", "minLength": 1},
+        "source": {"type": "string", "minLength": 1},
+        "measurement_time": {"type": "string", "format": "date-time"},
+        "age_at_decision": {"type": "number", "minimum": 0},
+        "validity": {"enum": ["VALID", "INVALID", "EXPIRED"]},
+        "calibration_reference": {"type": ["string", "null"]},
+        "provenance_reference": {"type": "string", "minLength": 1},
+        "proposal_binding": {"type": "string", "minLength": 1}
+      }
+    },
+    "message": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "direction",
+        "role",
+        "bytes",
+        "send_time",
+        "receive_time",
+        "delivery_outcome",
+        "retransmission_count",
+        "packet_count"
+      ],
+      "properties": {
+        "direction": {
+          "enum": ["SENDER_TO_RECEIVER", "RECEIVER_TO_SENDER", "LOCAL", "NOT_APPLICABLE"]
+        },
+        "role": {
+          "enum": ["PROPOSAL", "EVIDENCE_COORDINATION", "EVIDENCE_TRANSFER", "FINALIZATION"]
+        },
+        "bytes": {"type": "integer", "minimum": 0},
+        "send_time": {"type": ["number", "null"], "minimum": 0},
+        "receive_time": {"type": ["number", "null"], "minimum": 0},
+        "delivery_outcome": {"enum": ["DELIVERED", "LOST", "NOT_RECORDED"]},
+        "retransmission_count": {"type": ["integer", "null"], "minimum": 0},
+        "packet_count": {"type": ["integer", "null"], "minimum": 1}
+      }
+    },
+    "decision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "evidence_outcome",
+        "failure_reason",
+        "assembly_location",
+        "finalizer",
+        "credential_state",
+        "handoff_outcome",
+        "finalization_outcome",
+        "deadline_met"
+      ],
+      "properties": {
+        "evidence_outcome": {"enum": ["ACCEPT", "REJECT", "ABSTAIN"]},
+        "failure_reason": {"type": ["string", "null"]},
+        "assembly_location": {"enum": ["SENDER", "RECEIVER", "DISTRIBUTED", "NOT_RECORDED"]},
+        "finalizer": {"enum": ["SENDER", "RECEIVER", "NONE"]},
+        "credential_state": {"enum": ["VALID", "INVALID", "REVOKED", "NOT_RECORDED"]},
+        "handoff_outcome": {"enum": ["NOT_REQUIRED", "DELIVERED", "FAILED", "NOT_RECORDED"]},
+        "finalization_outcome": {"enum": ["FINALIZED", "NOT_FINALIZED", "FAILED"]},
+        "deadline_met": {"type": "boolean"}
+      }
+    },
+    "runtime": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["gate_outcome", "plant_state_reference", "fallback", "actuation", "action_outcome"],
+      "properties": {
+        "gate_outcome": {"enum": ["ACT", "STOP", "FALLBACK", "NOT_RECORDED"]},
+        "plant_state_reference": {"type": ["string", "null"]},
+        "fallback": {"type": ["string", "null"]},
+        "actuation": {"type": ["string", "null"]},
+        "action_outcome": {"type": ["string", "null"]}
+      }
+    },
+    "requirements": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "minimum_coverage",
+        "maximum_selective_risk",
+        "freshness_limit",
+        "deadline",
+        "finalization_authority"
+      ],
+      "properties": {
+        "minimum_coverage": {"type": "number", "minimum": 0, "maximum": 1},
+        "maximum_selective_risk": {"type": "number", "minimum": 0, "maximum": 1},
+        "freshness_limit": {"type": "number", "exclusiveMinimum": 0, "description": "Milliseconds."},
+        "deadline": {"type": "number", "exclusiveMinimum": 0, "description": "Milliseconds."},
+        "finalization_authority": {"enum": ["SENDER", "RECEIVER"]}
+      }
+    }
+  }
+}

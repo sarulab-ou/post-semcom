@@ -1,0 +1,3 @@
+finalizer,receiver_evidence_availability,baseline_coverage_difference_pp,first_negative_latency_after_baseline_ms,first_both_zero_latency_ms,maximum_positive_coverage_difference_pp,minimum_coverage_difference_pp,baseline_traffic_saving_percent,selector
+sender,0.9,-0.9199302868707071,1.0,5.0,0.0,-63.66131739000039,13.76771282320457,coverage outside +/-0.25 pp; then evidence traffic; then message count
+receiver,0.9,0.0,3.0,6.0,0.0,-62.73209487800978,66.18125250000027,coverage outside +/-0.25 pp; then evidence traffic; then message count

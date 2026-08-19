@@ -1,0 +1,152 @@
+[
+  {
+    "grid": "0.5, 0.75, 0.9, 1",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 10.889999999999992,
+    "maximum_false_safe_rate": 0.08324144052631591,
+    "maximum_timely_coverage": 0.785942189999999,
+    "minimum_evidence_traffic_kib": 2.2446359099999964,
+    "minimum_timely_coverage": 0.19648554750000055,
+    "parameter": "evidence_availability"
+  },
+  {
+    "grid": "0.9, 0.95, 0.99, 1",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.899999999999974,
+    "maximum_false_safe_rate": 0.06879457894736848,
+    "maximum_timely_coverage": 0.649538999999998,
+    "minimum_evidence_traffic_kib": 2.5566007499999923,
+    "minimum_timely_coverage": 0.5261265900000012,
+    "parameter": "conditional_validity"
+  },
+  {
+    "grid": "0, 0.02, 0.05, 0.1, 0.15, 0.2",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 10.286797174582514,
+    "maximum_false_safe_rate": 0.1207869049894737,
+    "maximum_timely_coverage": 0.9239521158010083,
+    "minimum_evidence_traffic_kib": 0.9154869075000016,
+    "minimum_timely_coverage": 0.4084289858728001,
+    "parameter": "evidence_relation_error"
+  },
+  {
+    "grid": "0, 0.25, 0.5, 0.75",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000096,
+    "maximum_false_safe_rate": 0.06742556682631604,
+    "maximum_timely_coverage": 0.6622024834042197,
+    "minimum_evidence_traffic_kib": 2.2146930110249983,
+    "minimum_timely_coverage": 0.5603890280261166,
+    "parameter": "endpoint_correlation"
+  },
+  {
+    "grid": "0.9, 0.95, 0.99, 1",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06810663315789485,
+    "maximum_timely_coverage": 0.6430436100000008,
+    "minimum_evidence_traffic_kib": 2.603734395074989,
+    "minimum_timely_coverage": 0.57029177161827,
+    "parameter": "forward_delivery_success"
+  },
+  {
+    "grid": "0.9, 0.95, 0.99, 1",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.0674255668263159,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.5310347425,
+    "minimum_timely_coverage": 0.6273209487800925,
+    "parameter": "reverse_delivery_success"
+  },
+  {
+    "grid": "2, 10, 32",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 29.403000000000155,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 0.7101093804750047,
+    "minimum_timely_coverage": 0.626830892517298,
+    "parameter": "visual_record_kib"
+  },
+  {
+    "grid": "0.5, 1, 4",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 12.474000000000085,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.485382831662517,
+    "minimum_timely_coverage": 0.6273209487800978,
+    "parameter": "radio_record_kib"
+  },
+  {
+    "grid": "50, 100, 250",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.6273209487800978,
+    "parameter": "link_rate_mbps"
+  },
+  {
+    "grid": "0, 0.5, 5, 15",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.0,
+    "parameter": "fixed_per_message_latency_ms"
+  },
+  {
+    "grid": "5, 10, 15, 20",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.0,
+    "parameter": "processing_time_ms"
+  },
+  {
+    "grid": "15, 25, 33, 50",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.6273209487800978,
+    "parameter": "decision_deadline_ms"
+  },
+  {
+    "grid": "0, 10, 20, 24",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.0,
+    "parameter": "visual_initial_age_ms"
+  },
+  {
+    "grid": "0, 10, 15, 24",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.0,
+    "parameter": "radio_initial_age_ms"
+  },
+  {
+    "grid": "25, 30, 35, 50",
+    "maximum_deadline_miss": 0.0,
+    "maximum_evidence_traffic_kib": 9.801000000000062,
+    "maximum_false_safe_rate": 0.06742556682631531,
+    "maximum_timely_coverage": 0.6366131739000039,
+    "minimum_evidence_traffic_kib": 2.6037343950750076,
+    "minimum_timely_coverage": 0.0,
+    "parameter": "record_ttl_ms"
+  }
+]

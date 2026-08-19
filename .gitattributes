@@ -1,0 +1,18 @@
+* text=auto
+
+*.py text eol=lf
+*.tex text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.lock text eol=lf
+.python-version text eol=lf
+Dockerfile text eol=lf
+RELEASE_VERSION text eol=lf
+SHA256SUMS text eol=lf
+
+*.png binary
+*.pdf binary
+*.eps binary

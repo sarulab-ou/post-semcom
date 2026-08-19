@@ -1,0 +1,24 @@
+[
+  {
+    "baseline_coverage_difference_pp": -0.9199302868707071,
+    "baseline_traffic_saving_percent": 13.76771282320457,
+    "finalizer": "sender",
+    "first_both_zero_latency_ms": 5.0,
+    "first_negative_latency_after_baseline_ms": 1.0,
+    "maximum_positive_coverage_difference_pp": 0.0,
+    "minimum_coverage_difference_pp": -63.66131739000039,
+    "receiver_evidence_availability": 0.9,
+    "selector": "coverage outside +/-0.25 pp; then evidence traffic; then message count"
+  },
+  {
+    "baseline_coverage_difference_pp": 0.0,
+    "baseline_traffic_saving_percent": 66.18125250000027,
+    "finalizer": "receiver",
+    "first_both_zero_latency_ms": 6.0,
+    "first_negative_latency_after_baseline_ms": 3.0,
+    "maximum_positive_coverage_difference_pp": 0.0,
+    "minimum_coverage_difference_pp": -62.73209487800978,
+    "receiver_evidence_availability": 0.9,
+    "selector": "coverage outside +/-0.25 pp; then evidence traffic; then message count"
+  }
+]

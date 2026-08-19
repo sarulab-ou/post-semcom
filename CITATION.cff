@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this framework or reporting schema, please cite this work."
+title: "The Verification Gap in Networked Physical AI: A Post-Semantic Communication Framework"
+type: article
+authors:
+  - family-names: Saruwatari
+    given-names: Shunsuke
+    affiliation: The University of Osaka
+version: 25.1.0
+date-released: 2026-08-19
+repository-code: https://github.com/sarulab-ou/post-semcom
+url: https://github.com/sarulab-ou/post-semcom
+abstract: >-
+  A Concept Paper defining the verification gap and a post-semantic
+  communication framework that separates evidence requirements, records,
+  verification, authorized finalization, and runtime safety. The accompanying
+  artifact provides finite-state implementation-consistency checks, a
+  controlled communication study, and a portable episode-level reporting
+  schema.
+keywords:
+  - post-semantic communication
+  - verification gap
+  - Networked Physical AI
+  - evidence contract
+  - receiver feedback
+  - reproducible evaluation

@@ -1,0 +1,5 @@
+layer,required_fields,what_can_be_evaluated
+Evidence,synchronized sender/receiver records; ground truth; contract item; support/conflict relation; source; measurement time; age at decision; calibration; provenance; proposal binding,"validity, evidence sufficiency, selective risk, and false-safe behavior"
+Delivery,forward/reverse message; message role; bytes; loss; delay; retransmission and packetization when available,"feedback function, communication cost, and comparison fairness"
+Finalization,finalizer; assembly location; credential state; handoff; finalization outcome,authority feasibility and completion failure
+Runtime,plant state; runtime-gate outcome; fallback; actuation; physical result,closed-loop safety beyond pre-action verification

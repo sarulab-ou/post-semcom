@@ -1,0 +1,42 @@
+[
+  {
+    "evaluation": "A_fair_interaction_sender",
+    "evidence_law": "declared_exact_finite_state_law",
+    "fixed_dimensions": "finalizer=sender;evidence_contract;inventory_law;verifier;artifact_format=reference_manifest",
+    "required_evidence_set": "visual_clearance+radio_no_motion",
+    "varied_dimensions": "interaction=one_way|feedback",
+    "verifier": "common_typed_validation_pipeline"
+  },
+  {
+    "evaluation": "A_fair_interaction_receiver",
+    "evidence_law": "declared_exact_finite_state_law",
+    "fixed_dimensions": "finalizer=receiver;evidence_contract;inventory_law;verifier;artifact_format=reference_manifest",
+    "required_evidence_set": "visual_clearance+radio_no_motion",
+    "varied_dimensions": "interaction=one_way|feedback",
+    "verifier": "common_typed_validation_pipeline"
+  },
+  {
+    "evaluation": "B_evidence_contract",
+    "evidence_law": "declared_exact_finite_state_law",
+    "fixed_dimensions": "finalizer=receiver;interaction=one_way;channel=evidence_layer_perfect_delivery",
+    "required_evidence_set": "visual_clearance+radio_no_motion",
+    "varied_dimensions": "required_evidence_contract;observation_correlation;record_encoding",
+    "verifier": "common_typed_validation_pipeline"
+  },
+  {
+    "evaluation": "C_finalizer_placement_sender_assembly",
+    "evidence_law": "declared_exact_finite_state_law",
+    "fixed_dimensions": "evidence_assembly=sender;interaction=one_way;base_message_sequence;artifact_format=reference_manifest",
+    "required_evidence_set": "visual_clearance+radio_no_motion",
+    "varied_dimensions": "finalizer;availability;handoff_success;handoff_delay;handoff_control_bytes",
+    "verifier": "common_typed_validation_pipeline"
+  },
+  {
+    "evaluation": "C_finalizer_placement_receiver_assembly",
+    "evidence_law": "declared_exact_finite_state_law",
+    "fixed_dimensions": "evidence_assembly=receiver;interaction=one_way;base_message_sequence;artifact_format=reference_manifest",
+    "required_evidence_set": "visual_clearance+radio_no_motion",
+    "varied_dimensions": "finalizer;availability;handoff_success;handoff_delay;handoff_control_bytes",
+    "verifier": "common_typed_validation_pipeline"
+  }
+]

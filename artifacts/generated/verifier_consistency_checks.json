@@ -1,0 +1,79 @@
+[
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "complete supporting evidence",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "abstain",
+    "finalization_outcome": "abstain",
+    "passes": true,
+    "scenario": "incomplete supporting evidence",
+    "verification_outcome": "abstain"
+  },
+  {
+    "expected_outcome": "reject",
+    "finalization_outcome": "reject",
+    "passes": true,
+    "scenario": "admissible Visual conflict",
+    "verification_outcome": "reject"
+  },
+  {
+    "expected_outcome": "reject",
+    "finalization_outcome": "reject",
+    "passes": true,
+    "scenario": "conflict before completeness",
+    "verification_outcome": "reject"
+  },
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "invalid-provenance conflict",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "binding-mismatched conflict",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "expired conflict",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "revoked-calibration conflict",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "untrusted-source conflict",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "accept",
+    "finalization_outcome": "accept",
+    "passes": true,
+    "scenario": "excessive-uncertainty conflict",
+    "verification_outcome": "accept"
+  },
+  {
+    "expected_outcome": "abstain",
+    "finalization_outcome": "abstain",
+    "passes": true,
+    "scenario": "complete evidence at unauthorized endpoint",
+    "verification_outcome": "accept"
+  }
+]

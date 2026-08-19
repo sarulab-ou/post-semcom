@@ -1,0 +1,30 @@
+[
+  {
+    "interpretation": "feedback strictly enlarges reachable admissible support in some sender-finalized states",
+    "metric": "sender_transfer_gain_mass",
+    "passes": true,
+    "state_count": 64,
+    "value": 0.0830093798267956
+  },
+  {
+    "interpretation": "coordination preserves pre-timing evidence reachability under the declared one-way fallback",
+    "metric": "receiver_reachability_mismatch_count",
+    "passes": true,
+    "state_count": 0,
+    "value": 0.0
+  },
+  {
+    "interpretation": "receiver status suppresses redundant evidence-record payload in some episodes",
+    "metric": "receiver_coordination_payload_saving_bytes",
+    "passes": true,
+    "state_count": 248,
+    "value": 6642.098746905596
+  },
+  {
+    "interpretation": "declared validation, conflict, sufficiency, and authorization checks pass",
+    "metric": "structural_check_pass_count",
+    "passes": true,
+    "state_count": 11,
+    "value": 11
+  }
+]
